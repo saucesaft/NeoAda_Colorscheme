@@ -1,8 +1,8 @@
 # Installation of NeoAda Colorscheme in Vim
 
 Installation 
-============
-## 1-. Manual Option
+------------
+###  1-  Manual Option
  
 1- Move `NeoAda.vim` to your `.vim/colors` directory. By doing the following:
 
