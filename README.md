@@ -7,5 +7,5 @@ NeoAda is an universal colorscheme inspired by the first ever computer programme
 
 ## Currently available for:
 
-### Editors & IDE's
-+[Vim](https://www.google.com "Vim NeoAda colorscheme installation instructions.")
+## Editors & IDE's
++[Vim](https://github.com/Eduarch42/NeoAda_Colorscheme/Themes/Vim "Vim NeoAda colorscheme installation instructions.")
